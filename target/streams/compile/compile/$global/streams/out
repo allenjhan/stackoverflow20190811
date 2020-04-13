@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/allen/rep/stackoverflow20190811/src/main/scala/Main.scala:37:13: non-variable type argument Int in type pattern IndexedSeq[Int] (the underlying of IndexedSeq[Int]) is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m    case t: IndexedSeq[Int] => println(t)[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

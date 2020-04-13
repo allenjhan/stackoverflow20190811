@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/allen/rep/stackoverflow20190811/target/scala-2.13/stackoverflow20190811_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HeyActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/HeyActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HeyActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/HeyActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FLPActor$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/FLPActor$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$$nestedInanonfun$oneFut$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/Main$$anonfun$$nestedInanonfun$oneFut$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FLPActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/FLPActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AskNameMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/AskNameMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AskNameMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20190811/target/scala-2.13/classes/AskNameMessage.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
